@@ -1,4 +1,4 @@
-### Hi there 👩‍🦰
+### Hi there 🖖
 
 I'm Klea, working in the field of automations and SQL enthusiast from Albania.
 

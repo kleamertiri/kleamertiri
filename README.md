@@ -1,4 +1,4 @@
-##  <p align = "center"> Hi there 🖖 </p>
+#  <p align = "center"> Hi there 🖖 </p>
 
 I'm Klea, working in the field of automations and SQL enthusiast from Albania.
 
@@ -7,4 +7,7 @@ I'm Klea, working in the field of automations and SQL enthusiast from Albania.
 - 🤖 Automating all the cool (*boring*) stuff
 - 📊 Loves working with data and learning new skills every day 
 - ✍🏻 Taking notes all the time and organizing everything
+
+
+
 

@@ -1,4 +1,4 @@
-## Hi there 🖖
+##  <p align = "center"> Hi there 🖖 </p>
 
 I'm Klea, working in the field of automations and SQL enthusiast from Albania.
 
